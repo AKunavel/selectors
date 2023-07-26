@@ -1,0 +1,21 @@
+h1,h2,h3
+{
+    color: aqua;
+    
+}
+.grandpa >.father > .son{
+    color: blue;
+}
+.grandpa >.father2 >.son{
+    color: rgb(66, 2, 2);
+}
+
+ .narutoa .narutob .narutoc{
+    color:blueviolet;
+}
+.narutoa .narutoc{
+    color: green;
+}
+.sasuke{
+    color: hotpink;
+}
